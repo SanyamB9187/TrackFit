@@ -1,0 +1,143 @@
+name,calories_per_100g,protein_per_100g,average_weight
+Apple,52,0.3,182
+Banana,89,1.1,118
+Orange,47,0.9,131
+Mango,60,0.8,200
+Grapes,69,0.7,75
+Strawberry,32,0.7,12
+Watermelon,30,0.6,2860
+Pineapple,50,0.5,905
+Papaya,43,0.5,500
+Pomegranate,83,1.7,282
+Guava,68,2.6,250
+Pear,57,0.4,178
+Cherry,63,1.1,8
+Blueberry,57,0.7,1
+Kiwi,61,1.1,75
+Litchi,66,0.8,10
+Custard Apple,94,2.1,150
+Plum,46,0.7,66
+Apricot,48,1.4,35
+Fig,74,0.8,50
+Chicken Breast,165,31.0,174
+Egg (Boiled),155,13.0,50
+Fish (Salmon),208,20.0,150
+Mutton (Goat),143,25.0,150
+Beef,250,26.0,200
+Pork,242,27.0,200
+Prawns,99,24.0,30
+Lamb,294,25.6,200
+Crab,97,19.0,100
+Duck Meat,337,27.0,200
+Turkey Breast,189,29.0,150
+Quail Egg,158,13.1,9
+Chicken Leg,172,28.0,125
+Fish (Rohu),97,17.0,150
+Fish (Tuna),132,28.0,150
+Egg Yolk,322,16.0,17
+Egg White,52,11.0,33
+Goat Liver,135,20.4,120
+Chicken Liver,119,17.0,100
+Fish (Hilsa),310,22.0,200
+Paneer (Cottage Cheese),265,18.3,100
+Tofu,144,15.0,100
+Soybeans (Raw),446,36.5,100
+Chickpeas (Kabuli Chana),364,19.0,100
+Chana Dal (Split Bengal Gram),352,21.8,100
+Moong Dal (Split Green Gram),347,24.0,100
+Masoor Dal (Red Lentils),348,25.0,100
+Urad Dal (Black Gram),341,25.2,100
+Rajma (Kidney Beans),337,24.0,100
+Black Eyed Peas (Lobia),336,23.5,100
+Horse Gram (Kulthi),321,22.0,100
+Green Peas (Raw),81,5.4,100
+Moth Beans (Matki),343,23.6,100
+Puffed Rice (Murmura),402,6.6,100
+Wheat Flour (Atta),364,12.0,100
+Rice (White),365,7.1,100
+Poha (Flattened Rice),346,6.7,100
+Besan (Gram Flour),387,22.0,100
+Sprouted Moong,105,7.0,100
+Groundnuts (Peanuts),567,25.8,100
+Roti (Whole Wheat),250,8.0,50
+Chapati (Whole Wheat),240,7.5,50
+Paratha (Whole Wheat),290,8.5,60
+Naan (White Flour),270,9.0,60
+Rice (Cooked),130,2.7,150
+Dal Tadka (Cooked),120,7.0,200
+Sambar (Cooked),90,4.0,200
+Idli,130,2.5,50
+Dosa,168,3.5,100
+Upma,160,4.0,150
+Poha,180,4.5,150
+Curd (Plain Yogurt),60,3.5,100
+Paneer Curry,220,14.0,150
+Aloo Sabzi (Potato Curry),110,2.0,150
+Mixed Vegetable Curry,80,3.0,150
+Chole (Chickpea Curry),180,8.0,150
+Rajma (Kidney Bean Curry),140,7.0,150
+Butter Chicken,239,16.0,150
+Fish Curry,180,20.0,150
+Egg Curry,180,14.0,150
+Masala Tea,50,1.0,200
+Lassi (Sweet),150,4.0,200
+Spinach (Raw),23,2.9,100
+Cauliflower (Raw),25,1.9,100
+Cabbage (Raw),25,1.3,100
+Carrot (Raw),41,0.9,100
+Tomato (Raw),18,0.9,100
+Eggplant (Brinjal),25,1.0,100
+Okra (Raw),33,2.0,100
+Bottle Gourd (Raw),14,0.6,100
+Bitter Gourd (Raw),17,1.0,100
+Green Beans (Raw),31,1.8,100
+Pumpkin (Raw),26,1.0,100
+Radish (Raw),16,0.7,100
+Fenugreek Leaves (Raw),49,4.4,100
+Mustard Greens (Raw),27,2.9,100
+Coriander Leaves (Raw),23,2.1,100
+Samosa (Potato Filled),260,6.0,100
+Pakora (Vegetable Fritters),290,7.0,100
+Bhaji (Fried Vegetable),220,5.0,100
+Kachori (Spiced Lentil),350,8.0,100
+Vada (Lentil Donut),310,9.0,100
+Bhel Puri,350,7.0,100
+Pani Puri (Gol Gappa),70,1.5,100
+Milk (Whole),60,3.3,100
+Milk (Skimmed),35,3.4,100
+Butter (Unsalted),717,0.9,100
+Ghee (Clarified Butter),900,0.0,100
+Cheese (Processed),350,25.0,100
+Cream (Heavy),345,2.1,100
+Ragi (Finger Millet),336,7.3,100
+Jowar (Sorghum),329,10.4,100
+Bajra (Pearl Millet),361,11.6,100
+Barley (Raw),354,12.5,100
+Oats (Rolled),389,16.9,100
+Corn (Maize),365,9.4,100
+Coffee (Brewed),2,0.1,100
+Fresh Orange Juice,45,0.7,100
+Soft Drink (Cola),42,0.0,100
+Packaged Mango Juice,60,0.3,100
+Pickle (Mango),120,0.5,100
+Chutney (Coriander),110,1.5,100
+Turmeric Powder,312,9.7,100
+Cumin Powder,375,17.8,100
+Coriander Powder,298,12.4,100
+Chili Powder,282,12.0,100
+Salt,0,0,100
+Sugar (White),387,0,100
+Jaggery,383,0.4,100
+Honey,304,0.3,100
+Mustard Oil,884,0.0,100
+Sunflower Oil,884,0.0,100
+Coconut Oil,862,0.0,100
+Olive Oil,884,0.0,100
+Bread (White Loaf),265,9.0,100
+Bread (Brown Whole Wheat),247,12.0,100
+Biscuits (Sweet),450,6.0,100
+Cake (Vanilla),389,4.0,100
+Puri (Deep Fried Wheat Bread),330,6.0,100
+Instant Noodles,436,10.0,100
+Ready-to-Eat Veg Meal,150,6.0,100
+Frozen Mixed Vegetables,40,2.0,100

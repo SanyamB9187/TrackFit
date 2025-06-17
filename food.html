@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Meal Calorie Tracker</title>
+    <link rel="stylesheet" href="food.css" />
+  </head>
+  <body>
+    <header class="navbar">
+      <a href="index.html" id="logo-link">
+        <div class="logo">TrackFit</div>
+      </a>
+      <nav class="nav-links">
+        <a href="index.html">Home</a>
+        <a href="#">Food</a>
+        <a href="#">Workout</a>
+        <a href="#">Account</a>
+      </nav>
+    </header>
+
+    <!-- Main content container -->
+    <div class="main-wrapper">
+      <div style="flex: 2;">
+        <div id="meal-container">
+          <h1>Track Your Meals</h1>
+          <div class="meal-block">
+            <div class="meal-name-container">
+              <label for="meal-name">Meal Name:</label>
+              <select class="meal-name-select">
+                <option value="Breakfast">Breakfast</option>
+                <option value="Lunch">Lunch</option>
+                <option value="Dinner">Dinner</option>
+                <option value="Snack">Snack</option>
+              </select>
+            </div>
+
+            <div class="foods-container">
+              <div class="food-row">
+                <label>Food:</label>
+                <input type="text" class="food-name" placeholder="e.g., Apple" />
+
+                <label>Amount:</label>
+                <input type="number" class="food-amount" placeholder="e.g., 100" />
+                <select class="food-unit">
+                  <option value="g">g</option>
+                  <option value="kg">kg</option>
+                  <option value="mg">mg</option>
+                  <option value="oz">oz</option>
+                </select>
+
+                <br /><br />
+
+                <label>Units (e.g. 2 apples):</label>
+                <input type="number" class="food-count" placeholder="e.g., 2" />
+                <button type="button" class="remove-food-btn" style="display: none">X</button>
+              </div>
+            </div>
+
+            <div class="food-entry">
+              <button type="button" class="remove-food-btn" style="display: none">X</button>
+              <button type="button" class="add-food-btn">+ Add Another Food</button>
+            </div>
+
+            <div class="calories-output"></div>
+          </div>
+        </div>
+
+        <div class="buttons" id="button-container">
+          <button id="add-meal-btn" onclick="addMealBlock()">Add Meal</button>
+        </div>
+      </div>
+
+      <!-- Instruction image -->
+      <div id="instruction-image">
+        <img src="./instructions-img.jpg" alt="Instruction Image" />
+      </div>
+    </div>
+
+    <div id="grand-total" style="margin-left: 30px; margin-top: 20px; font-size: 1.3rem"></div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
