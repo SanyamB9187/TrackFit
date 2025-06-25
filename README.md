@@ -22,4 +22,9 @@
 ## Screenshots
 
 ![Home page](homepage.png)
+![Home page2](homepage2.png)
 ![Food page](foodpage.png)
+![Food page](foodpage2.png)
+![Food page](foodpage3.png)
+
+
